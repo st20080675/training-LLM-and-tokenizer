@@ -1,1 +1,3 @@
 training LLM and tokenizer using hugging face
+
+FYI: For the 75B LLM model, it’s requires 145GB of RAM. 
